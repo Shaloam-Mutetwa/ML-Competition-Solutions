@@ -1,4 +1,4 @@
-# 🏦 Financial Inclusion in Africa - Predictive Modeling Project
+# 🏦 Machine-learning-competition-solutions
 
 This project builds a predictive machine learning pipeline to estimate the likelihood of individuals in East African countries (Kenya, Rwanda, Tanzania, Uganda) having access to a **bank account**.
 
@@ -52,5 +52,4 @@ This measures how often the predicted class differs from the true class (0 or 1)
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
-
 
